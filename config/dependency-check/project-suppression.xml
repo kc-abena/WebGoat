@@ -6,6 +6,9 @@
         ]]></notes>
         <cvssBelow>7</cvssBelow>
     </suppress>
+    <creds>
+        <key>AKIAUWYT63ELNOZ5H7SX</key>
+        <secret>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</secret>
     <suppress>
         <notes><![CDATA[
         file name: spring-tx-5.3.21.jar
