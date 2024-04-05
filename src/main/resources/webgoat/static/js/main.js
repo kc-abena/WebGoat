@@ -9,7 +9,7 @@ js/main.js << main file for require.js
 --/goatApp/support
 --/goatApp/controller
 */
-
+/*this is the key AKIAREUC7U5FZ2ZCYDXC*/
 /**
  * Main configuration for RequireJS. Referred to from Spring MVC /start.mvc using main_new.html template.
  * baseURL is the base path of all JavaScript libraries.
